@@ -13,7 +13,8 @@ const events = ref([
       time: '12:00',
       petsAllowed: true,
       organizer: 'Kat Laydee'
-    }, {
+    },
+    {
       id: 5928102,
       category: 'animal welfare',
       title: 'Cat Playing Day',
@@ -23,7 +24,8 @@ const events = ref([
       time: '12:00',
       petsAllowed: true,
       organizer: 'Kat Laydee'
-    }, {
+    },
+    {
       id: 5928103,
       category: 'animal welfare',
       title: 'Cat Demo Day',
